@@ -1,0 +1,14 @@
+[
+  {
+    src: '../app/images/1.png',
+    caption: 'one'
+  },
+  {
+    src: '../app/images/2.png',
+    caption: 'two'
+  },
+  {
+    src: '../app/images/3.png',
+    caption: 'three'
+  }
+]

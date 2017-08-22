@@ -1,0 +1,24 @@
+Image Gallery:
+
+Using this application the user must be able to add as many pictures to the page as he wants by clicking on the “+” button. 
+Each picture has text associated with it describing the picture which can be used for searching the picture by typing search 
+  queries in the search text field, the filtering has to be live i.e. on text input.
+  
+Please make sure you have nodeJS and npm installed in your machine
+I have created this application using following versions of the same
+npm -version
+3.10.10
+node --version
+v6.11.1
+
+
+__
+
+You need to run client application and server.js 
+Proceed to root folder and start the server
+
+node server.js
+//Which will start the server
+
+npm start
+//Will launch the application
