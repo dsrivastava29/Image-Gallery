@@ -1,3 +1,5 @@
+NOTE: This project may not work if you do not have all related libraries installed on your machine. Working on that issue.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
