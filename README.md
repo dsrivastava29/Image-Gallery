@@ -1,4 +1,4 @@
-NOTE: This project may not work if you do not have all related libraries installed on your machine. Working on that issue.
+NOTE: For demo purposes, I have separated server.js from the project. You need to run node server.js and npm start both in the package to actually run it.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
